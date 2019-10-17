@@ -71,7 +71,7 @@ def show_data_analyse_result_of_bar(data_list, xdata, ydata):
             module_data.append(module_info.get(ele, None))
         bar.add_yaxis(module, module_data)
     bar.set_global_opts(
-        title_opts=opts.TitleOpts(title="版本统计", subtitle="副标题", ),
+        # title_opts=opts.TitleOpts(title="版本统计", subtitle="副标题", ),
         toolbox_opts=opts.ToolboxOpts(is_show=False, ),
         legend_opts=opts.LegendOpts(is_show=True, )
     )
