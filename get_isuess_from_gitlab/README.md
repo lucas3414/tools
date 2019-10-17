@@ -9,4 +9,7 @@
     # 获取全部的bug单 dict2 = {'labels': ['bug']}
     # 获取单独一个版本的bug单  dict2 = {'labels': ['bug'], 'milestone': 'v1.4.0'}
     # 获取某个时间节点之后的bug单  dict2 = {'labels': ['bug'],  'created_after': '2019-01-24'}
+    
+bug在excle展示：
+![image](https://github.com/lucas3414/tools/blob/master/do_excle_for_pandas/img/新增sheet页，不会覆盖原有数据.png)
 
