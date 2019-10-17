@@ -264,5 +264,3 @@ local.properties
 pyvenv.cfg
 .venv
 pip-selfcheck.json
-
-data_analyse_show/
