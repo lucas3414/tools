@@ -1,7 +1,8 @@
 # tools
 这是一个小的工具项目
 
-
+1、data_analyse_show：
+  利用 pandas 对excle进行 新增数据，修改数据，新增sheet页的操作，不会对原有的数据和sheet进行删除
 
 
 
